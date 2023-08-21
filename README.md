@@ -7,15 +7,15 @@ Here I have covered folowing tasks as create new user, login, search user, updat
 
 
 ## Tools & Technology used:
--postman
+- postman
 
--newman
+- newman
 
 ## Prerequisites
--nodeJS
+- nodeJS
 
 ## How to run this project:
--clone this project
+- clone this project
 
 -Give following command:
 - ```npm i```
