@@ -28,4 +28,6 @@ Here I have covered folowing tasks as create new user, login, search user, updat
 - https://documenter.getpostman.com/view/18246239/2s9Y5TxiqW
 
 ## Test Report
+![screencapture-file-F-SQA-Project-dmoney-collection-newman-Reports-report-html-2023-08-21-19_18_37](https://github.com/ABmaxplunck/dmoney-api-automation-newman/assets/51376551/f3e351e9-eb88-4910-a09d-c58692d3984d)
+
 
